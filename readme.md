@@ -1,4 +1,4 @@
-# Sophie - The Sophisticated Web Browser
+# ![Sophie's icon](.\Sophie.ico)Sophie - The Sophisticated Web Browser
 
 ## Sophie's Philosophy
 ### Sophisticated Functions
