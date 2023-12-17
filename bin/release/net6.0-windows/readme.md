@@ -1,0 +1,1 @@
+These binaries require .NET6 and desktop runtime.
